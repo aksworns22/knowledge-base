@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "700603ca6a05314e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a313eb65912943a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b92ca977c62a8c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "학습 기록/2026.10.26 학습 기록 (1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026.10.26 학습 기록 (1)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e7758bf7ce4b85d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d3c555fe3654e93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbddf148a68f3091",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "1e5baf2702ff5b4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "55583c961295bf4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e97fd30119a08c13",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4d0e23b14b6505f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "086f8922f8533fea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "학습 기록/2026.10.26 학습 기록 (1).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "a25b5f63dde1cfaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "학습 기록/2026.10.26 학습 기록 (1).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "ed163569752b13d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "c23c6718192c6d38",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "4cbe2423bf4f5a79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "학습 기록/2026.10.26 학습 기록 (1).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "9b92ca977c62a8c8",
+  "lastOpenFiles": [
+    "학습 기록/2026.10.26 학습 기록 (1).md",
+    "학습 자료/우테코 레벨 4 - 시스템 디자인 기초.md",
+    "영상 기록/당근은 왜 LLM Router 를 직접 만들었을까? - 2026 당근 빌더 밋업.md",
+    "지식 개념/AI 에이전트.md",
+    "지식 개념/신뢰성.md",
+    "지식 베이스.md",
+    "독서 기록/린스타트업.md",
+    "지식 개념/컨텍스트 엔지니어링.md",
+    "학습 기록/이미지/Pasted image 20261026152120.png",
+    "학습 자료/한 땀 한 땀! 나의 첫 AI 에이전트.md",
+    "학습 자료/AI 에이전트를 깊이 이해하기.md",
+    "지식 개념/vLLM.md",
+    "지식 개념/LiteLLM.md",
+    "지식 개념/LLM 라우터.md",
+    "지식 개념/LLM.md",
+    "지식 개념/시스템 디자인.md",
+    "지식 개념/HLD.md",
+    "지식 개념/멱등성.md",
+    "지식 개념/밀집 임베딩.md",
+    "지식 개념/워크플로.md",
+    "지식 개념/희소 임베딩.md",
+    "학습 기록/2026.10.23 학습 기록 (1).md",
+    "지식 개념/TF-IDF.md",
+    "지식 개념/임베딩.md",
+    "지식 개념/비기능 요구사항.md",
+    "지식 개념/확장성.md",
+    "지식 개념/CAP.md",
+    "지식 개념",
+    "학습 기록/이미지/Pasted image 20261025135317.png",
+    "학습 기록/이미지/Pasted image 20261025134904.png",
+    "학습 자료",
+    "학습 기록/이미지/Pasted image 20261024102421.png",
+    "학습 기록/이미지/Pasted image 20261024101613.png",
+    "학습 기록/이미지/Pasted image 20261024100818.png",
+    "학습 기록/이미지/Pasted image 20261024095905.png",
+    "학습 기록/이미지/Pasted image 20261024091646.png",
+    "영상 기록/이미지",
+    "영상 기록",
+    "영상 기록/이미지/Pasted image 20261024020145.png",
+    "독서 기록",
+    "학습 기록/이미지/Pasted image 20261023231419.png",
+    "학습 기록/이미지",
+    "학습 기록",
+    "임베딩",
+    "rag"
+  ]
+}
